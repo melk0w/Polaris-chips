@@ -1,5 +1,6 @@
 # Polaris-chips
-A bunch of custom chips
+A bunch of custom chips.
+
 Hello my name is Dimitry and i want to show cool chip ideas for my tracker 😜!
 1. Polaris PSG
 Chip made in 1980 that have 4 channels
