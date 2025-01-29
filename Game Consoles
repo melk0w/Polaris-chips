@@ -21,6 +21,16 @@ sound: Polaris S10
 THE END
 5) Polaris Pyrania/Pyranis
 processor: x86-64 arcitecture 64 bit 2x0.75 mhz
+video: Polaris voodoo 3d based video
+RAM: 512 mb
+HDD: 5 GB 
+CD ROM: 16x speed (CD/DVD only)
+sound: Polaris HD audio (16-bit) 
 THE END (AGAIN)
 6) Polaris Zver 1
+processor: x86-64 architecture 64 bit 1 GHz 
+video: Polaris 3d graphics 500 mb vidRAM
+RAM: 1 GB 
+SSD: 64 GB 
+
 
