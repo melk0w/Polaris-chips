@@ -1,6 +1,6 @@
 Chip made in 1980 that have 4 channels
 3 channels for square waves and 1 cannel
-for 2 types of noise. First noise is used in TI SN76489 2nd noise used in AY8910 all types of noise have 1 bit lfsr control.
+for 2 types of noise. First noise is used in TI SN76489 2nd noise used in AY8910 all types of noise have 1 bit length control.
 It has 4-bit volume control. And exponential envelope control.
 The biggest plus of this chip is
 going to lower frequencies. For example the TI SN7 can't go below 
