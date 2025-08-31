@@ -1,20 +1,20 @@
 1) Game Master 
-processor: x86 architecture 8 bit 5mhz 
+processor: CISC architecture 8 bit 5mhz 
 video: 64 colour palette 16 colour
 RAM: 64 kb 
 sound: Polaris PSG 
 2) Game Master Evo 
-processor: x86 architecture 8 bit 10 mhz
+processor: CISC architecture 8 bit 10 mhz
 video: 256 colour palette 64 colour 
 RAM: 256 kb 
 sound: Polaris PSG²+ 8 bit DAC
 3) Game Master 12
-processor: x86 architecture 8+4 bit 15+10 mhz
+processor: CISC architecture 8+4 bit 15+10 mhz
 video: 4096 colour palette 256 colour 
 RAM: 512 kb 
 sound: Polaris FM1L + Polaris PSG
 4) Game Master 16 
-processor: x86  15 bit 16mhz 
+processor: x86  16 bit 33.3mhz 
 video: 2¹⁶ colour palette and colour 
 RAM: 1mb 
 sound: Polaris PCM2
