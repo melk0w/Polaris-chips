@@ -5,6 +5,6 @@ It has 4-bit volume control. And exponential envelope control.
 The biggest plus of this chip is
 going to lower frequencies. For example the TI SN7 can't go below 
 A3 in contrast of Polaris PSG which can go below A(-1) and above A9!
-The noise channel has 12 preset pitch.
+The noise channel has 16 preset pitch.
 Ok let's go to lfsr control, there's 2 options noise control for all types of noise.
  
